@@ -1,3 +1,5 @@
+<!-- Hide contribution graph and activity -->
+
 # 💫 About Me:
 Hi 👋, I'm A.K.U.S.Abeysinghe
 
